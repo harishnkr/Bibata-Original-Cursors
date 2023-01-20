@@ -15,6 +15,7 @@
 
 Cursor icons for Linux and Windows(folders ending with windows)
 Clone the repo and follow this [guide](https://github.com/ful1e5/Bibata_Cursor#installing-bibata-cursor). Since the files are not compressed, the extraction step can be skipped.
+The cursor files ending with Windows are for Windows only. The other files are for Linux.
 
 ## Gallery
 
