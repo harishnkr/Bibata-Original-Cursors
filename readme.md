@@ -20,15 +20,15 @@ Clone the repo and follow this [guide](https://github.com/ful1e5/Bibata_Cursor#i
 
 **Rosé Pine**
 
-![Rosé Pine for Helix](https://user-images.githubusercontent.com/47515065/211688566-dae32a99-ae01-433a-a9b4-9bcd79927db3.png)
+![Rosé Pine](https://github.com/harishnkr/Bibata-Original-Cursors/blob/main/Assets/rose-pine.png)
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon for Helix](https://user-images.githubusercontent.com/47515065/211688688-f0c80661-4d60-4b1f-8dce-af4c665162a3.png)
+![Rosé Pine Moon](https://github.com/harishnkr/Bibata-Original-Cursors/blob/main/Assets/rose-pine-moon.png)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn for Helix](https://user-images.githubusercontent.com/47515065/211688737-b179e80f-1d66-4cae-b39b-bc5c1194f43d.png)
+![Rosé Pine Dawn](https://github.com/harishnkr/Bibata-Original-Cursors/blob/main/Assets/rose-pine-dawn.png)
 
 ## Thanks to
 
